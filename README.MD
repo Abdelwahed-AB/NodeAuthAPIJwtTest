@@ -1,0 +1,1 @@
+Small script i recreated while learning JWT from [this video](https://www.youtube.com/watch?v=7nafaH9SddU&ab_channel=TraversyMedia) from Traversy Media.
